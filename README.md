@@ -1,1 +1,1 @@
-A GUI-based Connect-N game based on the student's P1
+My final project for my CSCI301 Software Development class. The game has several game modes with different win conditions and board sizes. To run, you can clone the repo to your machine and open it in an IDE then run the main source file ConnectN.java in the src folder
